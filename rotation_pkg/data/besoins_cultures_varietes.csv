@@ -1,0 +1,48 @@
+culture,variete,cycle_min_j,cycle_max_j,isohyete_min_mm,isohyete_max_mm,notes,source,portee
+arachide,GC 8-35,80,80,,,"Nord (Louga), extra-précoce, tolérante à la sécheresse","Cycle: K-State Crop Adaptation, ch.19 (arachide Sénégal)",Sénégal
+arachide,55-33,80,80,,,"Nord, s'étend au centre; plus de fane que GC 8-35","Cycle: K-State Crop Adaptation, ch.19 (arachide Sénégal)",Sénégal
+arachide,55-437,90,90,,,Nord (Louga); remplacée par GC 8-35 car pluie devenue insuffisante,"Cycle: K-State Crop Adaptation, ch.19 (arachide Sénégal)",Sénégal
+arachide,47-16,90,90,,,Nord; type rampant,"Cycle: K-State Crop Adaptation, ch.19 (arachide Sénégal)",Sénégal
+arachide,Taaru,90,90,,,Bassin sud; dormance des graines; zones sèches à fin de saison variable,"Le Quotidien (ISRA, nouvelles variétés d'arachide) ; Cycle: K-State Crop Adaptation, ch.19 (arachide Sénégal)",Sénégal
+arachide,Raw gadu,90,90,,,Zones sèches; rendement stable,"Le Quotidien (ISRA, nouvelles variétés d'arachide)",Sénégal
+arachide,Rafeet car,90,90,,,Zones sèches; systèmes agro-pastoraux,"Le Quotidien (ISRA, nouvelles variétés d'arachide)",Sénégal
+arachide,Yaakaar,90,90,,,Zones sèches; fane élevée (cycle donné : 3 mois),"Le Quotidien (ISRA, nouvelles variétés d'arachide)",Sénégal
+arachide,Tosset,90,90,,,"Gros grains, arachide de bouche","Le Quotidien (ISRA, nouvelles variétés d'arachide)",Sénégal
+arachide,Sunugaal,95,95,,,Adaptée à la sécheresse,"Le Quotidien (ISRA, nouvelles variétés d'arachide)",Sénégal
+arachide,Essamaye,105,105,,,"Bassin sud, Sénégal oriental, basse Casamance","Le Quotidien (ISRA, nouvelles variétés d'arachide)",Sénégal
+arachide,73-33,110,110,,,Centre et sud; a remplacé 57-422,"Cycle: K-State Crop Adaptation, ch.19 (arachide Sénégal)",Sénégal
+arachide,Amoul morom,120,120,,,"Bassin sud, Sénégal oriental, basse Casamance","Le Quotidien (ISRA, nouvelles variétés d'arachide)",Sénégal
+arachide,57-422,120,120,,,"Centre (Diourbel, Thiès, Kaolack); surface réduite aujourd'hui","Cycle: K-State Crop Adaptation, ch.19 (arachide Sénégal)",Sénégal
+niebe,58-57,75,75,,,"Variété locale de Podor, résistante à la sécheresse",K-State Crop Adaptation ch.? (niébé Sénégal),Sénégal
+mil,Ankoutess améliorée,95,95,350.0,600.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mil,Faringuero,95,95,400.0,600.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mil,ICMV IS 85333,90,100,400.0,600.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mil,AMEL.M01,100,100,400.0,600.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mil,M2D2,100,105,450.0,650.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mil,Guefoue 16,105,105,400.0,800.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mil,Pool 9,110,115,600.0,800.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mil,Mangakolo,110,120,800.0,1200.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mil,Benkadinio,120,120,700.0,900.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mil,M9D3,125,130,800.0,1000.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mil,M12D1,130,140,800.0,1000.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+sorgho,Malisor 84-5,100,100,400.0,600.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+sorgho,Malisor 92-1 (Saguifa),100,100,400.0,700.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+sorgho,CSM 63 E (Jakumbé),100,100,400.0,700.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+sorgho,CSM 219 E (Ntoko),105,105,400.0,800.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+sorgho,ICSV 401,105,105,400.0,600.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+sorgho,Nganda,110,110,,,"2-3 t/ha, faible teneur en tanins",CORAF Mita fiche sorgho Nganda,Afrique de l'Ouest
+sorgho,CSM 417,115,115,600.0,1000.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+sorgho,Mipsor 90 25-93 (Gnodéni),120,130,900.0,1000.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+sorgho,CSM 485 (Kossa),130,130,900.0,1000.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+sorgho,IPS 0001,130,140,750.0,,isohyète donnée : 750 mm,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mais,CSP-SR,70,75,500.0,,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mais,E 211,75,80,600.0,800.0,sensible au virus,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mais,Kogoni B,80,80,,600.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mais,Zanguéréni,80,80,,600.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mais,DMR ESR-Y (Nieleni),90,90,,600.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mais,Dembanyuma (Obatanpa),105,110,,800.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mais,SNK2878,105,105,800.0,1000.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mais,Mamaba,105,110,800.0,1000.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mais,Tiémanti (Zamblara),110,115,800.0,1000.0,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mais,Suwan I-SR,110,120,800.0,,,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
+mais,Tuxpeno,115,120,900.0,,isohyète donnée : 900 mm; sensible au virus,Catalogue ouest-africain des espèces et variétés (FAO i0062f01/02),Afrique de l'Ouest
